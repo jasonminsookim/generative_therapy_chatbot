@@ -1,7 +1,7 @@
 generative_therapy_chatbot
 ==============================
 
- The goal of the project is to create a generative chatbot that is based on GPT2 and fined tuned using therapy transcripts and other text data.
+ The goal of the project is to create a generative chatbot that is based on GPT2 and fined tuned using therapy transcripts and other text data. Please note, the Jacobson Lab at Dartmouth is switching from a GPT2 framework to one based on ParlAI's blenderbot.
 
 Project Organization
 ------------
